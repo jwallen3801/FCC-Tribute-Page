@@ -1,0 +1,46 @@
+body {
+    background-color: #EEE;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  figure {
+    background-color: white;
+    padding: 25px 20px 20px 20px;
+  }
+  
+  img {
+    background-color: white;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 20px
+  }
+  
+  h1 {
+    font-size: 50px;
+    padding-top: 50px;
+  }
+  
+  h3 {
+    padding: 30px;
+  }
+  
+  ul {
+    display: inline-block;
+    text-align: left;
+    width: 75%
+  }
+  
+  li {
+    padding: 15px;
+    padding-left: 0px;
+    line-height: 1.5;
+  }
+  
+  blockquote {
+    padding-top: 5px;
+    width: 40%;
+    display: inline-block;
+    line-height: 1.5;
+  }
